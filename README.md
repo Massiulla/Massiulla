@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Massiulla
 - 👀 I’m interested in learning new stuff.
 - 🌱 I’m currently learning cyber security.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new projects.
 - 📫 Love to play soccer.
 
 <!---
